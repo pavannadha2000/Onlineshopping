@@ -1,0 +1,7 @@
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    float: left;
+    border-radius: inherit;
+}
